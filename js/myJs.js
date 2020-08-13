@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Cùng cố gắng cho mối quan hệ này nhá",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/messages/t/badchild98';
+                    window.location = 'https://m.me/badchild98';
                   }
             })
         }
